@@ -1,0 +1,2 @@
+# smartRoom
+### Bu uygulama bir arduino uno bir röle ve bir tane de bluetooth entegresi yardımıyla bir odanın ışığını açıp kapama işlemleri yapar röle açıldığında ışık açılır kapandığında ışık kapanır bu android uygulaması ise arduinoya röleyi açmak için 'A' kapamak için 'K' string değerlerini göndermektedir.Uygulamayı install ettiğinizde sizeden bluetooth izni isteyecektir izin verin eşlenmiş olan cihazlardan bluetooth entegresini seçin ardından röleyi rahatlıkla açıp kapatın
